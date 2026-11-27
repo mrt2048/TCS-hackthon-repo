@@ -1,0 +1,26 @@
+product_id,product_name,category,current_stock,reorder_level,quantity_received,last_received_date,incoming_on_order,stock_availability,lead_time_days,shelf_life_days
+P001,Whole Milk 1L,Dairy,36,198,504,2026-11-19,504,Low,2,5
+P002,Greek Yogurt 500g,Dairy,57,82,210,2026-11-20,210,Low,2,10
+P003,Cheddar Cheese 200g,Dairy,133,79,151,2026-11-26,0,In stock,3,30
+P004,Butter 250g,Dairy,106,88,168,2026-11-24,0,In stock,3,45
+P005,Sliced Bread,Bakery,27,99,378,2026-11-24,0,Low,1,4
+P006,Croissant 4pk,Bakery,108,33,126,2026-11-26,0,In stock,1,3
+P007,Bananas 1kg,Produce,60,165,420,2026-11-26,0,Low,2,6
+P008,Tomatoes 1kg,Produce,106,115,294,2026-11-22,294,Low,2,6
+P009,Spinach 250g,Produce,116,72,184,2026-11-23,0,In stock,2,5
+P010,Apples 1kg,Produce,221,99,252,2026-11-24,0,In stock,2,14
+P011,Chicken Breast 500g,Meat,14,79,201,2026-11-23,0,Low,2,5
+P012,Eggs 12pk,Grocery,65,176,336,2026-11-20,336,Low,3,28
+P013,Basmati Rice 5kg,Grocery,540,79,100,2026-11-22,100,Overstocked,5,365
+P014,Pasta 500g,Grocery,211,184,235,2026-11-24,0,In stock,5,540
+P015,Cooking Oil 1L,Grocery,108,105,134,2026-11-25,0,In stock,5,365
+P016,Cornflakes 500g,Grocery,138,92,117,2026-11-26,0,In stock,5,270
+P017,Orange Juice 1L,Beverages,31,114,218,2026-11-22,0,Low,3,40
+P018,Cola 2L,Beverages,22,209,319,2026-11-26,0,Low,4,180
+P019,Bottled Water 6pk,Beverages,34,187,285,2026-11-20,285,Low,4,365
+P020,Potato Chips 150g,Snacks,384,277,352,2026-11-26,0,In stock,5,120
+P021,Chocolate Bar 100g,Snacks,78,316,403,2026-11-20,403,Low,5,240
+P022,Dish Soap 500ml,Household,540,92,100,2026-11-18,100,Overstocked,6,730
+P023,Laundry Detergent 2kg,Household,36,61,67,2026-11-21,67,Low,6,730
+P024,Toilet Paper 12pk,Household,630,107,117,2026-11-21,117,Overstocked,6,1800
+P025,Shampoo 400ml,Personal Care,450,77,84,2026-11-26,0,Overstocked,6,900
